@@ -1,0 +1,8 @@
+Drew,no,blue,short,male
+Claudia,yes,brown,long,female
+Drew,no,blue,long,female
+Drew,no,blue,long,female
+Alberto,yes,brown,short,male
+Karin,no,blue,long,female
+Nina,yes,brown,short,female
+Sergio,yes,blue,long,male

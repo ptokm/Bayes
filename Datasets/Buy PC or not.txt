@@ -1,0 +1,14 @@
+young,high,false,good,no
+young,high,false,exceptional,no
+mature,high,false,good,yes
+adult,medium,false,good,yes
+adult,low,true,good,yes
+adult,low,true,exceptional,no
+mature,low,true,exceptional,yes
+young,medium,false,good,no
+young,low,true,good,yes
+adult,medium,true,good,yes
+young,medium,true,exceptional,yes
+mature,medium,false,exceptional,yes
+mature,high,true,good,yes
+adult,medium,false,exceptional,no
